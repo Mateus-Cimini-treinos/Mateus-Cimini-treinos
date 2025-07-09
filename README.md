@@ -1,5 +1,8 @@
 <h1 align="center">Conta de Treino — Mateus Cimini</h1>
 
+![Status](https://img.shields.io/badge/Perfil%20de%20teste-Em%20aprendizado-blue?style=flat-square&logo=github)
+
+
 <p align="center">
 Este perfil é utilizado exclusivamente para práticas, testes e desenvolvimento de habilidades com foco em projetos pessoais e educativos.
 </p>
@@ -26,6 +29,15 @@ Esta conta é usada como ambiente de treino para:
 - SASS / LESS  
 - Gulp / Grunt  
 - E outras ferramentas que estou explorando
+
+---
+
+## 🧪 Como uso essa conta
+
+- Faço exercícios práticos dos cursos que estou fazendo.
+- Crio protótipos simples para testar ideias rapidamente.
+- Pratico Git e GitHub com commits reais.
+- Testo bibliotecas, plugins e técnicas novas.
 
 ---
 
